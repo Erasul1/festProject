@@ -1,4 +1,4 @@
-let dd = document.querySelector('.modal')
+ dd = document.querySelector('.modal')
 
 function modalOpen() {
         dd.style.display = 'flex'
